@@ -1,0 +1,26 @@
+{
+  "name": "crawling_data_nodejs",
+  "version": "1.0.0",
+  "description": "fetching data from website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sapnadeshmukh/crawling_data_NODEJs.git"
+  },
+  "author": "sapna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sapnadeshmukh/crawling_data_NODEJs/issues"
+  },
+  "homepage": "https://github.com/sapnadeshmukh/crawling_data_NODEJs#readme",
+  "dependencies": {
+    "cheerio": "*",
+    "express": "^4.17.1",
+    "puppeteer": "^10.2.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
